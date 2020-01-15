@@ -12,7 +12,7 @@ print(mystring_split) """
 print(mylist)
 print(type(mylist)) """
 #__________________________________________________________________________________________________________
- """mydict = {}                                               # similar to hash maps in Java
+"""mydict = {}                                               # similar to hash maps in Java
 print(type(mydict))
 mydict['myfirstkey'] = 1
 print(mydict['myfirstkey']) """
@@ -27,3 +27,4 @@ print(addTwoNumbers (5,2)) """
 mystring = 'Ma Blonde Mange Des Processeurs Et Des Gits'
 a = range(len(mystring))
 print(a)
+print(a+"Romania")
